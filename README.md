@@ -24,15 +24,6 @@ The insights derived from Exploratory Data Analysis (EDA) are used to build an i
 
 ---
 
-
-## 📊Dashboard  
-
-### 🔹 Dashboard Preview  
-<img width="1842" height="907" alt="image" src="https://github.com/user-attachments/assets/d4af9130-d67b-4e66-9320-c45bae71084a" />
-
-
----
-
 ### 🔹 Live Dashboard  
 [https://customer-behavior-dashboard.streamlit.app/] 
 

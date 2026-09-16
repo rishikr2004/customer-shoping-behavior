@@ -24,11 +24,6 @@ The insights derived from Exploratory Data Analysis (EDA) are used to build an i
 
 ---
 
-### 🔹 Live Dashboard  
-[https://customer-behavior-dashboard.streamlit.app/] 
-
----
-
 ## Technologies Used  
 - Python  
 - Pandas & NumPy  
